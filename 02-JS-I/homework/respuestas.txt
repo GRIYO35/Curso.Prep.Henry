@@ -1,0 +1,5 @@
+Variables: Una variable es una forma de almacenar un dato en el lenguaje de programacion a la cual le podemos asignar un avlor para luego utilizarlo. 
+Strings: Un strings es basicamente un texto definido entre comillas, cualquier conjunto de letras definido entre comillas es un strings ya sea que tengan significado en el lenguaje verbal o no.
+Funciones: LAas funciones son la forma que tenemos de hacer algo con nuestras variables, ya sea combinarlas, sumarlas, comparalas, y muchas cosas mas. 
+Declaraciones If: Es la forma que tenemos de comparar algo para que la consola no diga si el resultado es verdadero o falso, o sea con if comparamos algo y depende el resultado la consola nos dira si es verdadero o falso.
+Valores Booleanos: Los valores booleanos pueden ser solo dos, o es esto o es aquellos por lo que se utiliza verdadero o falso. O sea el resultado de una funcion puede ser solamente verdadero o falso.

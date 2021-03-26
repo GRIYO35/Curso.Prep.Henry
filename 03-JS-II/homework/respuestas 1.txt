@@ -1,0 +1,4 @@
+for: El bucle for es una funcion con la que podemos repetir una operacion un numero de "n" veces, a la cual le debemos otorgar un numero de inicio, un numero de finallizacion y la cantidad en que se ira incrementando.
+&&: Es una condicion que quiere decir "Y" por la cual si tal condicion "Y" tal condicion se cumplen entonces es verdadero
+||: Es una condicion que quiere decir "O" por lo cual si tal condicion o tal condicion se cumplen entonces es verdadero.
+!: Es una condicion que quiere decir "NO" por lo tanto otorga el contrario a lo que es, o sea != quiere decir no es igual.
