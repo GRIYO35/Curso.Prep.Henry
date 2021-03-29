@@ -1,0 +1,1 @@
+Arrays: Los Arrays son arreglos en los cuales se puede otorgarle nuevos valores a una funcion, ya sean uno o varios valores nuevos.
