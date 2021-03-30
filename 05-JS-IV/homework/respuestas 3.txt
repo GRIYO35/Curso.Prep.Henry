@@ -1,0 +1,5 @@
+Objetos: Los objetos son un conjunto de propiedades.
+Propiedades: Las propiedades son una asociacion entre un nombre clave y un valor.
+Metodos: Cualquier funcion guardada dentro de un objeto es denominada metodo.
+Bucles For In:Su papel principal es el de recorrer un objeto pasando por cada una de sus propiedades para actuar sobre ellas de alguna manera.
+Notacion de puntos vs notacion de corchetes: La notacion de punto es la mas facil de usas ya que para invocar la propiedad solo colocamos el nombre del objeto seguido de un punto y seguido de la propiedad, del cual La notación de paréntesis permite el acceso a los nombres de propiedad almacenados en una variable, y se debe usar si la propiedad de un objeto contiene algún tipo de carácter especial.
