@@ -1,0 +1,2 @@
+Prototype: Todo objeto tiene otoro objeto, llamado prototype. Si le pedimos una propiedad a un objeto que  o la tenga entonces la busca en el prototye por lo que un prototype se utiliza como una fuente de propiedades. 
+Constructors (de clases): Es el metodo con el que podemos crear objetos a travez de una clase. 
